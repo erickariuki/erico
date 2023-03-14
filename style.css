@@ -1,4 +1,45 @@
 body {
   background: blue
 }
-
+body{
+  background-color: aqua;
+  width: 100%;
+  margin: 0%;
+}
+img{
+  width: 250px;
+  height: 250px;
+  margin-top: 0%;
+  margin-bottom: auto;
+  margin-right: 0%;
+  margin-left: auto;
+  display: block;
+  border-radius: 50%;
+}
+.me{
+text-align: center;
+}
+h1{
+  color: #e90f0f;
+  font-size: 40px;
+}
+.me p{
+font-size: 25px;
+}
+.about{
+  text-decoration: dashed;
+}
+.footer{
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+  text-align: center;
+  background-color: rgb(163, 101, 221);
+  height: 150px;
+  padding-top: 20px;
+  color: aliceblue;
+}
+.par{
+  b
+  position: relative;
+}
